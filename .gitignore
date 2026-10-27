@@ -1,0 +1,11 @@
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/data/*.csv
+backend/models/*.joblib
+frontend/node_modules/
+frontend/.npm-cache/
+frontend/dist/
+frontend/.env
+*.py[cod]
+.pytest_cache/
